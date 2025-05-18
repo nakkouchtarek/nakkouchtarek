@@ -8,7 +8,19 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+👋 Hi there! I'm a 4th-year Computer Engineering student diving into **Cybersecurity**.
+💡 My passion lies in building diverse software and deeply understanding systems and security, fueled by curiosity and the drive to tackle new challenges.
+
+
+<h3 align="left">✅  Let's connect</h3>
+
+<div align="left">
+    <a href="mailto:nakkouchtarek@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
+</div>
 
 ###
 
