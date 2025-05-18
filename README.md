@@ -21,6 +21,9 @@
   <a href="https://medium.com/@nakkouchtarek" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
   </a>
+  <a href="https://nakkouchtarek.github.io/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=My+Portfolio&logo=github&label=&color=12100E&logoColor=green&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
+  </a>
 </div>
 
 ###
