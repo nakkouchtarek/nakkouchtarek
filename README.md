@@ -9,10 +9,7 @@
 ###
 
 👋 Hi there! I'm a 4th-year Computer Engineering student diving into **Cybersecurity**.<br/>
-💡 My passion lies in building diverse software and deeply understanding systems and security, fueled by curiosity and the drive to tackle new challenges.
-
-
-<h3 align="left">✅  Let's connect</h3>
+💡 My passion lies in building diverse software and deeply understanding systems and security, fueled by curiosity and the drive to tackle new challenges.<br/>
 
 <div align="left">
    <a href="mailto:nakkouchtarek@gmail.com" target="_blank">
