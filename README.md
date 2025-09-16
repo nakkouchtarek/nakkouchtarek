@@ -8,7 +8,7 @@
 
 ###
 
-👋 Hi there! I'm a 4th-year Computer Science student diving into **Cybersecurity**.<br/>
+👋 Hi there! I'm a 5th-year Computer Science student diving into **Cybersecurity**.<br/>
 💡 My passion lies in building diverse software and deeply understanding systems and security, fueled by curiosity and the drive to tackle new challenges.<br/>
 
 <div align="left">
