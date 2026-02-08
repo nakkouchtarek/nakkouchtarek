@@ -1,6 +1,15 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=500&color=30F700&width=560&lines=Hi+I'm+Tarek;Nice+to+see+you+here" alt="Typing SVG" /></a>
 
+Final-year master's student in cybersecurity focused on vulnerability research, exploit development, and offensive security.
+
+## Experience
+
+- DevSecOps Intern @ Evidence Way, Casablanca
+- Security Solutions Team Lead (Intern) @ Microtech Leaders, Chicago (Remote)
+- Cybersecurity Engineering Intern @ CIH Bank, Casablanca
+
 ## Achievements & Rankings
+
 
 ### 2025
 
