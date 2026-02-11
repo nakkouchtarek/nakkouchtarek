@@ -26,6 +26,8 @@ Here are some of the disclosed vulnerabilities I found in my research :
 - [CVE-2025-64660](https://github.com/advisories/GHSA-j8xq-6qq7-vfv7): Improper Access Control Leading to RCE
 
 ### Visual Studio
+- [CVE-2026-21257](https://github.com/advisories/GHSA-g435-352v-fpxp): Elevation of Privilege Vulnerability
+- [CVE-2026-21256](https://github.com/advisories/GHSA-wr95-24gv-jx75): Remote Code Execution Vulnerability
 - [CVE-2025-62214](https://github.com/advisories/GHSA-cfhg-c2xg-42fj): Command Injection Leading to Local Code Execution
 
 ### Grav CMS
