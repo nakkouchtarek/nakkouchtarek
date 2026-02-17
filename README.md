@@ -5,7 +5,7 @@ Final-year master's student in cybersecurity focused on vulnerability research, 
 ## Experience
 
 - DevSecOps Intern @ Evidence Way, Casablanca
-- Manager of Intern's Cybersecurity Solution's Team  (Intern) @ Microtech Leaders, Chicago (Remote)
+- Manager of Intern's Security Solution's Team @ Microtech Leaders, Chicago (Remote)
 - Cybersecurity Engineering Intern @ CIH Bank, Casablanca
 
 ## Achievements & Rankings
