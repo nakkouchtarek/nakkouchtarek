@@ -4,6 +4,7 @@ Final-year master's student in cybersecurity focused on vulnerability research, 
 
 ## Experience
 
+- Currently : IT Auditor Intern @ CIH Bank, Casablanca
 - DevSecOps Intern @ Evidence Way, Casablanca
 - Manager of Intern's Security Solution's Team @ Microtech Leaders, Chicago (Remote)
 - Cybersecurity Engineering Intern @ CIH Bank, Casablanca
