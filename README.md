@@ -38,6 +38,7 @@ Here are some of the disclosed vulnerabilities I found in my research :
 ### Django
 - [CVE-2026-1207](https://github.com/advisories/GHSA-mwm9-4648-f68q): SQL Injection in RasterField Band Index Parameter
 - [CVE-2026-25674](https://github.com/advisories/GHSA-mjgh-79qc-68w3): Potential incorrect permissions on newly created file system objects
+- [CVE-2026-3902](https://github.com/advisories/GHSA-mvfq-ggxm-9mc5): ASGI header spoofing via underscore/hyphen conflation
 
 ### October CMS
 - [CVE-2025-61674](https://github.com/octobercms/october/security/advisories/GHSA-gxxc-m74c-f48x): Stored XSS via Editor Settings
