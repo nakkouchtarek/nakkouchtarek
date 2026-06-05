@@ -11,9 +11,6 @@ Final-year master's student in cybersecurity focused on vulnerability research, 
 
 ## Achievements & Rankings
 
-
-### 2025
-
 - Microsoft MSRC Leaderboard Q3 2025: #60
 - Microsoft MSRC Leaderboard Q4 2025: #48
 - Google VRP Honorable Mention
