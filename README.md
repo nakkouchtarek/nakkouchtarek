@@ -13,6 +13,8 @@ Cybersecurity engineer focused on vulnerability research, exploit development, a
 
 - Microsoft MSRC Leaderboard Q3 2025: #60
 - Microsoft MSRC Leaderboard Q4 2025: #48
+- Microsoft MSRC Leaderboard Q2 2026: #279
+- Microsoft MSRC 2026 Technical Leaderboard (Open Source): #4
 - Google VRP Honorable Mention
 
 ## Disclosed Vulnerabilities
