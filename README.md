@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=500&color=30F700&width=560&lines=Hi+I'm+Tarek;Nice+to+see+you+here" alt="Typing SVG" /></a>
 
-Final-year master's student in cybersecurity focused on vulnerability research, exploit development, and offensive security.
+Cybersecurity engineer focused on vulnerability research, exploit development, and offensive security.
 
 ## Experience
 
@@ -20,6 +20,11 @@ Final-year master's student in cybersecurity focused on vulnerability research, 
 Here are some of the disclosed vulnerabilities I found in my research :
 
 ### VS Code & GitHub Copilot
+- [CVE-2026-81376](https://github.com/advisories/GHSA-x6gf-c826-8c9m): Incomplete Comparison Leading to Security Feature Bypass
+- [CVE-2026-78461](https://github.com/advisories/GHSA-w2g5-8p9x-93xj): Path Traversal Leading to Security Feature Bypass
+- [CVE-2026-70335](https://github.com/advisories/GHSA-hj52-q5wj-vpwg): Command Injection Leading to Elevation of Privilege
+- [CVE-2026-45496](https://github.com/advisories/GHSA-m7vq-9w86-qx38): Path Traversal Leading to Security Feature Bypass
+- [CVE-2026-41610](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-41610): Cross-Site Scripting Leading to Security Feature Bypass
 - [CVE-2025-55319](https://github.com/advisories/GHSA-gv2h-mcrv-w23w): Command Injection Leading to RCE
 - [CVE-2025-64660](https://github.com/advisories/GHSA-j8xq-6qq7-vfv7): Improper Access Control Leading to RCE
 
