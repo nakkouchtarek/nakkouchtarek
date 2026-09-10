@@ -21,7 +21,7 @@ Cybersecurity engineer focused on vulnerability research, exploit development, a
 
 Here are some of the disclosed vulnerabilities I found in my research :
 
-### VS Code & GitHub Copilot
+### VS Code
 - [CVE-2026-81376](https://github.com/advisories/GHSA-x6gf-c826-8c9m): Incomplete Comparison Leading to Security Feature Bypass
 - [CVE-2026-78461](https://github.com/advisories/GHSA-w2g5-8p9x-93xj): Path Traversal Leading to Security Feature Bypass
 - [CVE-2026-70335](https://github.com/advisories/GHSA-hj52-q5wj-vpwg): Command Injection Leading to Elevation of Privilege
