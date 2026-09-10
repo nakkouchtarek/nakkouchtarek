@@ -4,7 +4,7 @@ Cybersecurity engineer focused on vulnerability research, exploit development, a
 
 ## Experience
 
-- Currently : Offensive Security Intern @ CIH Bank, Casablanca
+- Offensive Security Intern @ CIH Bank, Casablanca
 - DevSecOps Intern @ Evidence Way, Casablanca
 - Manager of Intern's Security Solution's Team @ Microtech Leaders, Chicago (Remote)
 - Cybersecurity Engineering Intern @ CIH Bank, Casablanca
